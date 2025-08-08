@@ -20,22 +20,22 @@ This project outlines all the steps for designing a Finite Impulse Response (FIR
     <td align="center">
       <img src="https://raw.githubusercontent.com/ArijitDutta96395/MATLAB_PROJECT/master/pic1.png" alt="Project 1" width="200" style="border-radius: 8px; box-shadow: 0 0 8px rgba(0,0,0,0.2);" />
       <br/><br/>
-      <b>Frequency Response</b>
+      <b>Magnitude Response</b>
     </td>
     <td align="center">
       <img src="https://raw.githubusercontent.com/ArijitDutta96395/MATLAB_PROJECT/master/pic2.png" alt="Project 2" width="200" style="border-radius: 8px; box-shadow: 0 0 8px rgba(0,0,0,0.2);" />
       <br/><br/>
-      <b>Impulse Response</b>
+      <b>Phase Response</b>
     </td>
     <td align="center">
       <img src="https://raw.githubusercontent.com/ArijitDutta96395/MATLAB_PROJECT/master/pic3.png" alt="Project 3" width="200" style="border-radius: 8px; box-shadow: 0 0 8px rgba(0,0,0,0.2);" />
       <br/><br/>
-      <b>Filter Coefficients</b>
+      <b>Impulse Response</b>
     </td>
     <td align="center">
       <img src="https://raw.githubusercontent.com/ArijitDutta96395/MATLAB_PROJECT/master/pic4.png" alt="Project 4" width="200" style="border-radius: 8px; box-shadow: 0 0 8px rgba(0,0,0,0.2);" />
       <br/><br/>
-      <b>Window Function</b>
+      <b>Cascade and Parallel Filter Images</b>
     </td>
   </tr>
 </table>
